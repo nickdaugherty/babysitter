@@ -1,0 +1,17 @@
+{
+  "name": "babysitter",
+  "version": "0.1",
+  "homepage": "https://github.com/nickdaugherty/babysitter",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nickdaugherty/babysitter.git"
+  },
+  "dependencies": {
+    "backoff": "~1.0.0"
+  },
+  "author": {
+    "name": "Nick Daugherty",
+    "email": "ndaugherty987@gmail.com"
+  },
+  "description": "Monitor a connection and automatically reconnect on failure."
+}
