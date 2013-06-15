@@ -7,7 +7,7 @@
     "url": "git://github.com/nickdaugherty/babysitter.git"
   },
   "dependencies": {
-    "backoff": "~1.0.0"
+    "backoff": "~2.3.0"
   },
   "author": {
     "name": "Nick Daugherty",
