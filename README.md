@@ -37,3 +37,7 @@ Examples
 		console.log('close!');
 	});
 ```
+
+License
+-------
+All code licensed under the MIT license.
